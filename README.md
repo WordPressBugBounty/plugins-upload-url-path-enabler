@@ -1,0 +1,1 @@
+# plugins-upload-url-path-enabler
